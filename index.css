@@ -4,5 +4,7 @@ ul{
 }
 li{
     display: inline-block;
-    
+    margin: 16px;
+    padding: 16px;
+    border: 16px;
 }
