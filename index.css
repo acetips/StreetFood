@@ -39,4 +39,10 @@ body{
 }
 #margin{
     margin-left: 65px;
+    
+}
+.image1{
+    position: relative;
+    right: 120px;
+    bottom: 10;
 }
