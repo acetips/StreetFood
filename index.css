@@ -23,3 +23,7 @@ body{
 .lightorange{
     color: #EAAB1B;
 }
+.button{
+    display: inline-block;
+    
+}
