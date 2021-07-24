@@ -27,5 +27,8 @@ body{
     display: inline-block;
     text-decoration: none;
     text-transform: capitalize;
+    font-weight: bold;
+    background-color: #6CB840;
+    color: white;
    
 }
