@@ -30,5 +30,7 @@ body{
     font-weight: bold;
     background-color: #6CB840;
     color: white;
-   
+    padding: 13px 20px;
+    margin-top: 10px;
+    border-radius: 200px;
 }
