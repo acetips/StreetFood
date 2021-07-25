@@ -44,8 +44,10 @@ body{
 }
 .image1{
     position: relative;
-    right: 120px;
-    
+    right: 100px;
+    flex: 1;
+    width: 70%;
+    float: right;
 }
 #section-1{
     width: 40%;
@@ -55,3 +57,8 @@ body{
     display: flex;
     text-align: center;
 }
+#section-2 > img{
+    
+}
+
+
