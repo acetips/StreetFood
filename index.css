@@ -79,10 +79,12 @@ body{
     text-align: center;
     margin-bottom: 100px;
 }
-.row{
+#section-3 .row{
     display: flex;
     flex-direction: row;
     margin: 60px;
+    
+    justify-content: space-evenly;
    
 }
 #section-3{
@@ -103,4 +105,7 @@ body{
     width: 100px;
     text-align: center;
     float: right;
+}
+#slide-2 {
+    background-color: #C9ECB5;
 }
