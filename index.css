@@ -95,4 +95,5 @@ body{
     background-color: white;
     bottom: 60px;
     position: relative;
+    border-radius: 0 0 25px 0;
 }
