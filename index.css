@@ -1,5 +1,6 @@
 ul{
     list-style-type: none;
+    font-size: large;
     
 }
 li{
@@ -16,13 +17,16 @@ li{
 }
 body{
     font-family: "Poppins",sans-serif;
+    font-size: large;
     
 }
 .lightgreen{
     color: #6CB840;
+    font-size: 2em;
 }
 .lightorange{
     color: #EAAB1B;
+    font-size: 2em;
 }
 .button{
     display: inline-block;
@@ -61,14 +65,18 @@ body{
     flex-direction: row;
 }
 #section-2 > div{
-    margin-top: 180px;
+    margin-top: 100px;
     margin-right: 100px;
     margin-left: 0px;
     padding: 2px;
     
    
 }
-    
+.image1{
+    width: 60%;
+}
+.title{
+    text-align: center;
 }
 
 
