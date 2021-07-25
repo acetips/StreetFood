@@ -109,3 +109,6 @@ body{
 #slide-2 {
     background-color: #C9ECB5;
 }
+#slide-2 .content {
+    display: flex;
+}
