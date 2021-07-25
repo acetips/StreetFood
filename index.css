@@ -16,6 +16,7 @@ div{
 }
 body{
     font-family: "Poppins",sans-serif;
+    
 }
 .lightgreen{
     color: #6CB840;
@@ -44,5 +45,10 @@ body{
 .image1{
     position: relative;
     right: 120px;
-    bottom: 10;
+    display: flex;
+    flex-shrink: 3;
+}
+#section-1{
+    width: 40%;
+    text-align: justify;
 }
