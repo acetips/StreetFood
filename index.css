@@ -46,6 +46,8 @@ body{
     position: relative;
     right: 100px;
     width: 70%;
+    margin-left: 100px;
+    
     
 }
 #section-1{
@@ -58,7 +60,14 @@ body{
     flex-wrap: nowrap;
     flex-direction: row;
 }
-#section-2 > img{
+#section-2 > div{
+    margin-top: 180px;
+    margin-right: 100px;
+    margin-left: 0px;
+    padding: 2px;
+    
+   
+}
     
 }
 
