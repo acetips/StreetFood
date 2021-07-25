@@ -8,7 +8,7 @@ li{
     padding: 10px;
     border: 16px;
 }
-div{
+.one{
     background-color: lightgrey;
 }
 .bold{
@@ -45,10 +45,13 @@ body{
 .image1{
     position: relative;
     right: 120px;
-    display: flex;
-    flex-shrink: 3;
+    
 }
 #section-1{
     width: 40%;
     text-align: justify;
+}
+#section-2 {
+    display: flex;
+    text-align: center;
 }
