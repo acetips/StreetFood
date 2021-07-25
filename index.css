@@ -77,10 +77,22 @@ body{
 }
 .title{
     text-align: center;
+    margin-bottom: 100px;
 }
 .row{
     display: flex;
     flex-direction: row;
+    margin: 60px;
+   
+}
+#section-3{
+    background-color: lightgrey;
     
 }
-
+#section-3 .row .burger {
+    width: 20%;
+    padding: 10px 20px;
+    background-color: white;
+    bottom: 60px;
+    position: relative;
+}
